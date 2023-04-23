@@ -18,7 +18,7 @@ Opa Eae, prazer sou o Douglas, Bem vindo ao meu perfil!
   ##
   
 <div> 
-  <a href="https://instagram.com/_douglas.arthur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://instagram.com/_douglas.arthur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:douglasarthur.s.bento@gmail.com?subject=Vim%20pelo%20Git%20Hub&body=Ola%20Douglas%2C%20vim%20pelo%20Git%20Hub."><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/douglasarthurr/douglasarthurr/blob/output/github-contribution-grid-snake.svg)
